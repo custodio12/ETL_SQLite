@@ -1,4 +1,4 @@
-# Limpeza dos dados
+# Carregando ao banco somente as linhas onde a coluna quantidade é maior que 10
 
 # Importando bibliotecas necessárias
 import csv
